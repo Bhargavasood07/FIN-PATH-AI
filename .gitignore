@@ -5,7 +5,6 @@ node_modules/
 
 # Next.js build
 .next/
-out/
 
 # Python
 __pycache__/
